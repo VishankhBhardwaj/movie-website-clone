@@ -256,7 +256,7 @@ height: 195.33px;
 border-radius: 20px;
 padding: 70px;
 margin: 10px;
-transition: all 1s linear 0s ;
+transition: all 0.2s linear 0s ;
 overflow: hidden;
 display: flex;
 justify-content: center;
